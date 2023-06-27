@@ -1,4 +1,4 @@
-# Stock prediction using deep neural learning
+# Stock prediction using machine learning and deep neural networks.
 
 Predicting stock prices can be a challenging task as it often does not follow any specific pattern. However, deep neural learning can be used to identify patterns through machine learning. One of the most effective techniques for series forecasting is using LSTM (long short-term memory) networks, which are a type of recurrent neural network (RNN) capable of remembering information over a long period of time. This makes them extremely useful for predicting stock prices.
 
